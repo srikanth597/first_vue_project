@@ -1,0 +1,51 @@
+[{
+    "address1": "56254 East Plaza",
+    "city": "Orlando",
+    "postalCode": "32813",
+    "state": "FL"
+  }, {
+    "address1": "34 Forster Center",
+    "city": "Aiken",
+    "postalCode": "29805",
+    "state": "SC"
+  }, {
+    "address1": "03350 5th Street",
+    "city": "Arlington",
+    "postalCode": "76004",
+    "state": "TX"
+  }, {
+    "address1": "06 Prentice Way",
+    "city": "Newark",
+    "postalCode": "19725",
+    "state": "DE"
+  }, {
+    "address1": "9 Cambridge Drive",
+    "city": "Seattle",
+    "postalCode": "98158",
+    "state": "WA"
+  }, {
+    "address1": "6 West Circle",
+    "city": "Fort Lauderdale",
+    "postalCode": "33345",
+    "state": "FL"
+  }, {
+    "address1": "0 Pierstorff Court",
+    "city": "Lafayette",
+    "postalCode": "70505",
+    "state": "LA"
+  }, {
+    "address1": "9940 Prairieview Pass",
+    "city": "Cincinnati",
+    "postalCode": "45213",
+    "state": "OH"
+  }, {
+    "address1": "429 Hoffman Parkway",
+    "city": "Independence",
+    "postalCode": "64054",
+    "state": "MO"
+  }, {
+    "address1": "5776 Chinook Point",
+    "city": "Macon",
+    "postalCode": "31296",
+    "state": "GA"
+  }]
